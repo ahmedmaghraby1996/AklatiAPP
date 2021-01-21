@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AklatiApp</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cook">CookActivity</string>
+    <string name="title_activity_main11">MainActivity11</string>
+
+    <string-array name="type">
+        <item>select type </item>
+        <item>meal</item>
+        <item>dessert</item>
+        <item>Side dish</item>
+    </string-array>
+    <string-array name="cost">
+        <item>select by price </item>
+        <item>higher to lower</item>
+        <item>lower to higher</item>
+
+    </string-array>
+</resources>
